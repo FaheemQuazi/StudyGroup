@@ -1,0 +1,12 @@
+{
+  "commands": [
+    {
+      "cmd": "help",
+      "out": "output for help"
+    },
+    {
+      "cmd": "ping",
+      "out": "pong"
+    }
+  ]
+}

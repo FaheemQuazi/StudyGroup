@@ -1,0 +1,8 @@
+{
+  "globalDependencies": {
+    "node": "registry:dt/node#6.0.0+20161229171858",
+    "node-schedule": "registry:dt/node-schedule#1.1.0+20161119044246",
+    "socket.io": "registry:dt/socket.io#1.4.4+20160915014424",
+    "underscore": "registry:dt/underscore#1.8.3+20161123125004"
+  }
+}

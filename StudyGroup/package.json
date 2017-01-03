@@ -1,0 +1,25 @@
+{
+  "name": "study-group",
+  "version": "0.0.1",
+  "description": "StudyGroup",
+  "main": "server.js",
+  "repository": {
+    "type": "github",
+    "url": "github.com/FaheemQuazi/StudyGroup"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": {
+    "name": "Faheem Quazi",
+    "email": "faheem@quazi.me",
+    "url": "quazi.me"
+  },
+  "dependencies": {
+    "diskdb": "^0.1.17",
+    "express": "^4.14.0",
+    "node-schedule": "^1.2.0",
+    "socket.io": "^1.7.2",
+    "underscore": "^1.8.3"
+  }
+}

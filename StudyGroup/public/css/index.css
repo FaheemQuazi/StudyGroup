@@ -1,0 +1,58 @@
+﻿#messages {
+    border: 1px solid #000000;
+    padding: 0px;
+    margin: 0px;
+    position: fixed;
+    height: 89%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    right: 5%;
+    left: 5%;
+    font-family: 'Fira Mono', monospace;
+}
+
+#submitform {
+    padding: 0px;
+    margin: 0px;
+    border-style: solid;
+    border-width: 1px;
+    position: fixed;
+    bottom: 3%;
+    right: 5%;
+    left: 5%;
+    width: 90%;
+}
+
+.fillcell {
+    width: 100%;
+}
+
+p{
+    text-indent: -15px;
+    padding: 12px;
+    border: 3px solid darkgrey;
+    background-color: darkgrey;
+}
+
+.motd {
+    background-color: black;
+    border: 3px solid black;
+    color: steelblue;
+}
+
+.server {
+    background-color: black;
+    border: 3px solid black;
+    color: #1097FF;
+}
+
+.you {
+    border: 3px solid indianred;
+    background-color: indianred;
+}
+
+.sent {
+    border: 3px solid darkseagreen;
+    background-color: darkseagreen;
+}
+
